@@ -74,7 +74,6 @@ $(() => {
         }
     };
 
-    console.log(images[0]);
     const init = function () {
 
         allCards.forEach(card => {
